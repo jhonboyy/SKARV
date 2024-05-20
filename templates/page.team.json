@@ -1,0 +1,66 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "subheading_size": 3,
+        "show_title": true,
+        "heading_size": 8,
+        "show_content": true,
+        "text_size": 4,
+        "align_text": "text-center",
+        "width": "wrapper",
+        "bg_color": "#f7f7f7",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "story": {
+      "type": "section-custom-content",
+      "blocks": {
+        "story-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "Return",
+            "subheading_size": 3,
+            "title": "",
+            "heading_size": 8,
+            "text": "<p>If you are not happy with your skarv, you can return or exchange it within 14 days in the Netherlands and 21 days for international orders. We can’t accept returns that aren’t in perfect condition and you’ll have to pay \u2028for your return shipping.<\/p><p>Products that returned to us are the customers responsibility and a refund will not be given until we have received them. By accessing this website we assume you accept these . Do not continue to use www.skarv.com if you do not agree to take all of the terms and conditions stated on<br\/>this page.<\/p>",
+            "text_size": 3,
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--white",
+            "button_size": "btn--large",
+            "button_style": "btn--outline",
+            "show_arrow": false,
+            "show_social_links": false,
+            "text_columns": 2,
+            "align_text": "text-left",
+            "bg_color": "#f4f4f4",
+            "color": ""
+          }
+        }
+      },
+      "block_order": [
+        "story-1"
+      ],
+      "settings": {
+        "height": "image-height",
+        "mobile_height": "screen-height-one-half--mobile",
+        "width": "wrapper--full-padded",
+        "borders": false,
+        "gutters": false,
+        "reverse_blocks": false,
+        "padding_top": 47,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "story"
+  ]
+}

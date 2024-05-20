@@ -1,0 +1,182 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "subheading_size": 3,
+        "show_title": true,
+        "heading_size": 8,
+        "show_content": true,
+        "text_size": 4,
+        "align_text": "text-left",
+        "width": "wrapper",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "double-1": {
+      "type": "section-double",
+      "blocks": {
+        "heading-1-1": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "text_size": 10,
+            "padding_bottom": 16
+          }
+        },
+        "text-1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Jelijn Verhoeven is a visual designer from Amsterdam and founded SKARV in 2020. She built the brand and visual identity together with creative director, Boris Lutters. Our copy hero is Clemency Newman and we builded the website together with Yvy Bakker. We work closely with GEM faces by Ami Keita. Boris Lutters and Victor Wennenkens also shoot our campaigns. <\/p><p>Jelijn Verhoeven started SKARV by creating a small number of scarves for friends. They loved them so much, they shared the designs on social media and before she knew it, other people were asking to buy them. From then, she saw the potential to improve the design and quality to make them available for sale.<\/p><p>By making scarves, she has learnt a lot about the knitting process, color combinations and starting her own brand from scratch. The first scarves were made of acrylic, but has since incorporated 100% merino<br\/>wool pieces to the collection.<\/p><p>To achieve the best quality, it’s really important to keep the production process as local as possible. Verhoeven is involved in production from start to finish, from choosing Italian wool that doesn’t scratch your neck, to stitching the final label.<\/p><p>A big shout out to all the people and friends that believe in this brand. Without their support, this would have never been possible.<\/p>",
+            "text_size": 2,
+            "text_style": "font-body",
+            "padding_bottom": 16
+          }
+        }
+      },
+      "block_order": [
+        "heading-1-1",
+        "text-1-1"
+      ],
+      "settings": {
+        "layout": "is-reversed",
+        "height": "sixty-fifty-height-hero",
+        "mobile_height": "four-fifty-height-hero--mobile",
+        "width": "wrapper--full",
+        "image_1": "shopify:\/\/shop_images\/SKarv-mini-still-2-1638x2048.jpg",
+        "image_width": "one-half",
+        "text_alignment": "text-left",
+        "reverse_blocks": false,
+        "bg_color": "",
+        "color": "",
+        "padding_top": 0,
+        "padding_bottom": 50
+      }
+    },
+    "announcement": {
+      "type": "section-announcement",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>  Read our story  <\/p>",
+            "text_style": "font-body",
+            "color": "#000000",
+            "target_device_enabled": false,
+            "target_device": "desktop"
+          }
+        }
+      },
+      "block_order": [
+        "text"
+      ],
+      "settings": {
+        "show_border": false,
+        "layout": "marquee",
+        "slider_speed": 7,
+        "text_alignment": "center",
+        "marquee_speed": 100,
+        "direction": "ticker-rtl",
+        "message_spacing": 50,
+        "text_size": 4,
+        "bg_color": "#e4e4e4",
+        "color": "",
+        "padding_top": 16,
+        "padding_bottom": 17
+      }
+    },
+    "columns": {
+      "type": "section-columns",
+      "blocks": {
+        "image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sustainability_studio_skarv_knitwearlab_1_8052be15-72dc-4008-99e0-920da9b24fd7.jpg",
+            "image_aspect_ratio": 1.2,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "Our story",
+            "heading_size": 4,
+            "text": "<p>If you want to read our story.<\/p>",
+            "text_size": 3,
+            "button_text": "read more",
+            "button_url": "shopify:\/\/pages\/our-story",
+            "button_type": "btn--primary hero__btn",
+            "button_size": "",
+            "button_style": "btn--outline",
+            "show_arrow": false
+          }
+        },
+        "image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/product_photos_studio_skarv_cloud_be8cf84c-970f-4735-9ae9-560d5f863184.jpg",
+            "image_aspect_ratio": 1.2,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "Merino collection",
+            "heading_size": 4,
+            "text": "<p>A locally produced collection. <\/p>",
+            "text_size": 3,
+            "button_text": "read more",
+            "button_url": "shopify:\/\/collections\/merino",
+            "button_type": "btn--primary hero__btn",
+            "button_size": "",
+            "button_style": "btn--outline",
+            "show_arrow": false
+          }
+        },
+        "image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/studio_skarv_our_story_1.jpg",
+            "image_aspect_ratio": 1.2,
+            "mobile_image_aspect_ratio": 1,
+            "image_shape": "normal",
+            "title": "The material",
+            "heading_size": 4,
+            "text": "<p>Read more about our material.<\/p>",
+            "text_size": 3,
+            "button_text": "Read more",
+            "button_url": "shopify:\/\/pages\/our-story",
+            "button_type": "btn--primary hero__btn",
+            "button_size": "",
+            "button_style": "btn--outline",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "image-1",
+        "image-3",
+        "image-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": 5,
+        "layout": "grid",
+        "grid": 3,
+        "align_heading": "text-left",
+        "align_text": "text-center",
+        "align_columns": "flex-align-top",
+        "width": "wrapper--full-padded",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "layout_mobile": "slider"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "double-1",
+    "announcement",
+    "columns"
+  ]
+}

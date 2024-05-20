@@ -1,0 +1,113 @@
+{
+  "sections": {
+    "hero": {
+      "type": "collection-image-with-title",
+      "settings": {
+        "show_title": true,
+        "show_description": true,
+        "flex_align": "align--bottom-left",
+        "bg_color": "",
+        "color": "#ffffff",
+        "show_image": true,
+        "banner_layout": "overlay",
+        "height": "five-fifty-height-hero",
+        "mobile_height": "five-fifty-height-hero--mobile",
+        "overlay_opacity": 0,
+        "overlay_color": "#ffffff",
+        "show_overlay_text": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "subcollections": {
+      "type": "subcollections",
+      "settings": {
+        "subcollection_layout": "grid",
+        "subcollection_description": false,
+        "select_image": "collection",
+        "color": "#ffffff",
+        "bg_color": "",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "main": {
+      "type": "collection",
+      "settings": {
+        "enable_sort": false,
+        "enable_filters": false,
+        "filter_layout": "inline-closed",
+        "collection_linklist": "",
+        "grid": 3,
+        "grid_mobile": "1",
+        "products_per_page": 24,
+        "border_color": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_collections_list_BifjTE": {
+      "type": "section-collections-list",
+      "blocks": {
+        "collection_hJFWfz": {
+          "type": "collection",
+          "settings": {
+            "collection": "merino",
+            "title": ""
+          }
+        },
+        "collection_dj9Bff": {
+          "type": "collection",
+          "settings": {
+            "collection": "football-collection",
+            "title": ""
+          }
+        },
+        "collection_nR4r9y": {
+          "type": "collection",
+          "settings": {
+            "collection": "silk-scarves",
+            "title": ""
+          }
+        },
+        "collection_c46kmp": {
+          "type": "collection",
+          "settings": {
+            "collection": "lex-pott-x-studio-skarv",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_hJFWfz",
+        "collection_dj9Bff",
+        "collection_nR4r9y",
+        "collection_c46kmp"
+      ],
+      "settings": {
+        "title": "Shop other collection",
+        "description": "",
+        "button_text": "",
+        "button_url": "shopify:\/\/collections",
+        "button_type": "btn--white",
+        "button_size": "btn--large",
+        "button_style": "btn--outline",
+        "show_arrow": false,
+        "layout": "grid",
+        "aspect_ratio": 1.4,
+        "grid": 4,
+        "layout_mobile": "slider",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 32,
+        "padding_bottom": 66
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "subcollections",
+    "main",
+    "section_collections_list_BifjTE"
+  ]
+}

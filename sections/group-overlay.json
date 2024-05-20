@@ -1,0 +1,66 @@
+{
+  "type": "aside",
+  "name": "Overlay",
+  "sections": {
+    "cookie": {
+      "type": "overlay-cookie",
+      "disabled": true,
+      "settings": {
+        "show_cookies_popup": true,
+        "position": "popup-cookies--right"
+      }
+    },
+    "cart-drawer": {
+      "type": "cart-drawer",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "title": "Your cart"
+          }
+        },
+        "upsell-products": {
+          "type": "upsell-products",
+          "settings": {
+            "upsell_auto_open": true,
+            "pin_to_bottom": false
+          }
+        },
+        "order-note": {
+          "type": "order-note",
+          "disabled": true,
+          "settings": {
+            "pin_to_bottom": false
+          }
+        },
+        "gift-note": {
+          "type": "gift-note",
+          "settings": {
+            "pin_to_bottom": true
+          }
+        },
+        "checkout-buttons": {
+          "type": "checkout-buttons",
+          "settings": {
+            "enable_additional_buttons": false,
+            "show_view_cart_button": false,
+            "pin_to_bottom": true
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "upsell-products",
+        "order-note",
+        "gift-note",
+        "checkout-buttons"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "cookie",
+    "cart-drawer"
+  ]
+}

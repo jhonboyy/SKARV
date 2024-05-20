@@ -1,0 +1,345 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "subheading_size": 3,
+        "show_title": true,
+        "heading_size": 8,
+        "show_content": true,
+        "text_size": 4,
+        "align_text": "text-left",
+        "width": "wrapper",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 50,
+        "padding_bottom": 50
+      }
+    },
+    "section_double_slider_RwyHEi": {
+      "type": "section-double-slider",
+      "blocks": {
+        "text_slide_RMWfKV": {
+          "type": "text-slide",
+          "settings": {
+            "subheading": "",
+            "subheading_size": 3,
+            "title": "Production Process",
+            "heading_size": 7,
+            "text": "<p>Our merino wool scarves are  produced in Amsterdam. We want to be as sustainable as possible and it’s important for us to work with local fabrics, sourced from the Netherlands or Europe.<\/p><p>For that reason we always try to look for a production as close by as we can. This way we always have control over the process and the environmental cost of shipping long distances.<\/p>",
+            "text_size": 3,
+            "text_style": "font-body",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "text_slide_RMWfKV"
+      ],
+      "settings": {
+        "layout": "",
+        "height": "screen-height-three-quarters",
+        "mobile_height": "screen-height-one-half--mobile",
+        "width": "wrapper--full",
+        "image_1": "shopify:\/\/shop_images\/sustainability_studio_skarv_knitwearlab_1.jpg",
+        "image_width": "one-half",
+        "text_alignment": "text-left",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_double_slider_YdQY9A": {
+      "type": "section-double-slider",
+      "blocks": {
+        "text_slide_TLHYcM": {
+          "type": "text-slide",
+          "settings": {
+            "subheading": "",
+            "subheading_size": 3,
+            "title": "Our B - SKARV",
+            "heading_size": 7,
+            "text": "<p>Knitting doesn’t always go perfectly, especially when creating a product on a small scale. Some of the scarves we have made have imperfections in the size or a small hole, but it doesn’t feel right to let them go to waste. That’s why we are selling these imperfect scarves (or scarves with extra character) at a reduced price – €90 ex. shipping. Any faults have been repaired and they’ll still keep you just as warm in the winter.<\/p><p>*we don’t always have the B skarvs in stock, this is related to the production process. If we sell them you can find them on <a href=\"https:\/\/www.vinted.nl\/member\/187642352\" target=\"_blank\" title=\"https:\/\/www.vinted.nl\/member\/187642352\">vinted<\/a>.<\/p>",
+            "text_size": 3,
+            "text_style": "font-body",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "text_slide_TLHYcM"
+      ],
+      "settings": {
+        "layout": "is-reversed",
+        "height": "screen-height-three-quarters",
+        "mobile_height": "screen-height-one-half--mobile",
+        "width": "wrapper--full",
+        "image_1": "shopify:\/\/shop_images\/Screenshot_2024-05-09_at_18.01.57.png",
+        "image_width": "one-half",
+        "text_alignment": "text-left",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_double_slider_wy8TjG": {
+      "type": "section-double-slider",
+      "blocks": {
+        "text_slide_Aa3AkK": {
+          "type": "text-slide",
+          "settings": {
+            "subheading": "",
+            "subheading_size": 3,
+            "title": "Our Production",
+            "heading_size": 7,
+            "text": "<p>We produce our merino wool scarves at Knitwear Lab they first focussed on being an industrial knit design & development lab, pushing the boundaries within knitting. <\/p><p>What is important for us regarding sustainability is that we make high quality products that last long. Therefore, the materials we source should be of high quality and preferably all natural. We try to make conscious choices in the materials we select. The Extra Fine Merino wool we use for our  Scarves are traceable and we support our suppliers to transition to fully animal friendly and RWS certified merino wool.<\/p><p>During production you can’t get around some faulty pieces, which we try to up-cycle with our B – skarvs.<\/p>",
+            "text_size": 3,
+            "text_style": "font-body",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "text_slide_Aa3AkK"
+      ],
+      "settings": {
+        "layout": "",
+        "height": "screen-height-three-quarters",
+        "mobile_height": "screen-height-one-half--mobile",
+        "width": "wrapper--full",
+        "image_1": "shopify:\/\/shop_images\/studio_skarv_our_story.jpg",
+        "image_width": "one-half",
+        "text_alignment": "text-left",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_double_slider_6ghY4W": {
+      "type": "section-double-slider",
+      "blocks": {
+        "text_slide_UFzkpz": {
+          "type": "text-slide",
+          "settings": {
+            "subheading": "",
+            "subheading_size": 3,
+            "title": "The Factory",
+            "heading_size": 7,
+            "text": "<p>Our merino wool factory is based in Amsterdam. We have close contact with the people who make your scarves and oversee the whole production process.  This way we are also sure people are not underpaid or work in bad work conditions. By keeping it local we can make sure factory conditions are perfect and the people get a fair wage for what they do.<\/p>",
+            "text_size": 3,
+            "text_style": "font-body",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "text_slide_UFzkpz"
+      ],
+      "settings": {
+        "layout": "is-reversed",
+        "height": "screen-height-three-quarters",
+        "mobile_height": "screen-height-one-half--mobile",
+        "width": "wrapper--full",
+        "image_1": "shopify:\/\/shop_images\/KL_LAB_060.jpg",
+        "image_width": "one-half",
+        "text_alignment": "text-left",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_double_slider_JxhVAn": {
+      "type": "section-double-slider",
+      "blocks": {
+        "text_slide_bAx6Pn": {
+          "type": "text-slide",
+          "settings": {
+            "subheading": "",
+            "subheading_size": 3,
+            "title": "The Wool",
+            "heading_size": 7,
+            "text": "<p>Our merino wool comes from Italy. We always use certified wool, this means the wool has certificate and is checked by the supllier.<\/p><p>Our skarvs are 100% merino wool, which is a natural fibre. Merino wool is high quality, super soft and cleans itself, so it stays smelling fresh and you don’t have to wash it very often. We recommend you wash your skarv as little as possible, to maintain its natural properties (and help the environment).<\/p><p>If you need to give your scarf some freshening-up you can choose to hang it outside to let it air. Want to get rid of wrinkles too? Steaming is the way to go!<\/p>",
+            "text_size": 4,
+            "text_style": "font-body",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "text_slide_bAx6Pn"
+      ],
+      "settings": {
+        "layout": "",
+        "height": "screen-height-three-quarters",
+        "mobile_height": "screen-height-one-half--mobile",
+        "width": "wrapper--full",
+        "image_1": "shopify:\/\/shop_images\/sheeps_wool.jpg",
+        "image_width": "one-half",
+        "text_alignment": "text-left",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_double_slider_MgkMWw": {
+      "type": "section-double-slider",
+      "blocks": {
+        "text_slide_QzWEpM": {
+          "type": "text-slide",
+          "settings": {
+            "subheading": "",
+            "subheading_size": 3,
+            "title": "A Stain",
+            "heading_size": 7,
+            "text": "<p>Use a natural soap (we like Ossengal) to gently remove the dirt by hand. And if you really want to wash your skarv, do it by hand or with a wool programme on your washing machine. After washing, make sure the skarv is in the right shape and dry it flat.<\/p><p>If you find a hole in your scarf after wearing it for a while, check our Instagram for our ‘how to’ videos. Most importantly, you need to make sure the loops are connected back together.<\/p><p> <\/p>",
+            "text_size": 3,
+            "text_style": "font-body",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "text_slide_QzWEpM"
+      ],
+      "settings": {
+        "layout": "is-reversed",
+        "height": "screen-height-three-quarters",
+        "mobile_height": "screen-height-one-half--mobile",
+        "width": "wrapper--full",
+        "image_1": "shopify:\/\/shop_images\/IMG-2838_16.32.22.jpg",
+        "image_width": "one-half",
+        "text_alignment": "text-left",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_double_slider_6eWQRA": {
+      "type": "section-double-slider",
+      "blocks": {
+        "text_slide_mCWnBw": {
+          "type": "text-slide",
+          "settings": {
+            "subheading": "",
+            "subheading_size": 3,
+            "title": "Our Prices",
+            "heading_size": 7,
+            "text": "<p>All our products are of high quality. For us, this is the most important thing about our product.<\/p><p>We make our scarves in Amsterdam and want to keep doing that. We hope you appreciate the love that goes into the scarves and that you’re getting a fair price.<\/p><p> <\/p>",
+            "text_size": 4,
+            "text_style": "font-body",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "text_slide_mCWnBw"
+      ],
+      "settings": {
+        "layout": "",
+        "height": "screen-height-three-quarters",
+        "mobile_height": "screen-height-one-half--mobile",
+        "width": "wrapper--full",
+        "image_1": "shopify:\/\/shop_images\/IMG_9936.jpg",
+        "image_width": "one-half",
+        "text_alignment": "text-left",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "section_double_slider_ptzUd8": {
+      "type": "section-double-slider",
+      "blocks": {
+        "text_slide_WDkdxW": {
+          "type": "text-slide",
+          "settings": {
+            "subheading": "",
+            "subheading_size": 3,
+            "title": "Our Stock",
+            "heading_size": 7,
+            "text": "<p>We produce small runs of scarves to reduce waste and make sure we never have too much stock left over. This means that scarves can sometimes sell out and it can take a while for them to be restocked.<\/p><p>In our high season we mostly make sure we have all our merino wool scarves in stock. In case you notice something is out of stock, you can always send us an email and we can tell you when it will be back in stock.<\/p><p> <\/p>",
+            "text_size": 3,
+            "text_style": "font-body",
+            "button_text": "",
+            "button_url": "",
+            "button_type": "btn--primary",
+            "button_size": "",
+            "button_style": "btn--solid",
+            "show_arrow": false
+          }
+        }
+      },
+      "block_order": [
+        "text_slide_WDkdxW"
+      ],
+      "settings": {
+        "layout": "is-reversed",
+        "height": "screen-height-three-quarters",
+        "mobile_height": "screen-height-one-half--mobile",
+        "width": "wrapper--full",
+        "image_1": "shopify:\/\/shop_images\/Stock_studio_skarv.jpg",
+        "image_width": "one-half",
+        "text_alignment": "text-left",
+        "bg_color": "",
+        "color": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "section_double_slider_RwyHEi",
+    "section_double_slider_YdQY9A",
+    "section_double_slider_wy8TjG",
+    "section_double_slider_6ghY4W",
+    "section_double_slider_JxhVAn",
+    "section_double_slider_MgkMWw",
+    "section_double_slider_6eWQRA",
+    "section_double_slider_ptzUd8"
+  ]
+}

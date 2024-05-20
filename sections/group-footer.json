@@ -1,0 +1,83 @@
+{
+  "type": "footer",
+  "name": "Footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "text_UnpzmX": {
+          "type": "text",
+          "settings": {
+            "image_width": 150,
+            "title": "",
+            "text": "<h2><a href=\"\/pages\/contact\" title=\"Contact\">Get In Touch<\/a><\/h2>",
+            "column_width": 33
+          }
+        },
+        "text_B3kFBd": {
+          "type": "text",
+          "settings": {
+            "image_width": 140,
+            "title": "Follow us",
+            "text": "<p><a href=\"https:\/\/www.instagram.com\/studio_skarv\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/studio_skarv\/\">Instagram <\/a><br\/><a href=\"https:\/\/www.linkedin.com\/company\/75033504\/admin\/feed\/posts\/\" title=\"https:\/\/www.linkedin.com\/company\/75033504\/admin\/feed\/posts\/\">Linked - in <\/a><\/p>",
+            "column_width": 20
+          }
+        },
+        "text_z46gP9": {
+          "type": "text",
+          "settings": {
+            "image_width": 150,
+            "title": "Our studio",
+            "text": "<p><a href=\"https:\/\/d4e5c0-fe.myshopify.com\/pages\/about\" title=\"https:\/\/d4e5c0-fe.myshopify.com\/pages\/about\">About <\/a><br\/><a href=\"https:\/\/d4e5c0-fe.myshopify.com\/pages\/our-story\" title=\"https:\/\/d4e5c0-fe.myshopify.com\/pages\/our-story\">Our story<\/a><\/p>",
+            "column_width": 20
+          }
+        },
+        "text_YVPEAp": {
+          "type": "text",
+          "settings": {
+            "image_width": 150,
+            "title": "Terms",
+            "text": "<p><a href=\"https:\/\/d4e5c0-fe.myshopify.com\/pages\/terms-conditions\" title=\"https:\/\/d4e5c0-fe.myshopify.com\/pages\/terms-conditions\">Our terms<\/a><br\/><a href=\"https:\/\/d4e5c0-fe.myshopify.com\/pages\/privacybeleid\" title=\"https:\/\/d4e5c0-fe.myshopify.com\/pages\/privacybeleid\">Privacy Policy<\/a><\/p><p><a href=\"\/pages\/return\" title=\"Return\">Returns<\/a><\/p>",
+            "column_width": 20
+          }
+        },
+        "text_hLT6Fw": {
+          "type": "text",
+          "settings": {
+            "image_width": 140,
+            "title": "Studio Skarv",
+            "text": "<p>Lutmastraat 193<br\/>1074 TV Amsterdam<\/p>",
+            "column_width": 20
+          }
+        }
+      },
+      "block_order": [
+        "text_UnpzmX",
+        "text_B3kFBd",
+        "text_z46gP9",
+        "text_YVPEAp",
+        "text_hLT6Fw"
+      ],
+      "settings": {
+        "logo_image_width": 140,
+        "overlay_opacity": 0,
+        "overlay_color": "#ffffff",
+        "border_color": "#ffffff",
+        "padding_top": 0,
+        "padding_bottom": 100
+      }
+    },
+    "section_anchor_logo_9kbkAC": {
+      "type": "section-anchor-logo",
+      "settings": {
+        "logo": "shopify:\/\/shop_images\/studio_skarv_5_fb869729-c4ef-4635-89ea-1adbf1004b39.png",
+        "padding_top": 0,
+        "padding_bottom": 35
+      }
+    }
+  },
+  "order": [
+    "footer",
+    "section_anchor_logo_9kbkAC"
+  ]
+}
